@@ -1,2 +1,2 @@
 # TallerGit-Compartido
-Clonando un proyecto ejemplo unsch
+Proyecto Colaborativo unsch
